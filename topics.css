@@ -13,7 +13,7 @@ div{
 
 
 body{
-    background-image: url();
+    background-image: url(./IMAGE/animal.jpg);
     background-repeat: no-repeat;
     background-size: cover;
 }
@@ -21,7 +21,10 @@ body{
 div hr{
     margin-left: 0;
 }
-a{
+a:hover{
     color: black;
     text-decoration: none;
+    background-color: rgb(185, 18, 54);
+    list-style: none;
+
 }
