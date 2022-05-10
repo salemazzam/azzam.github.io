@@ -170,6 +170,31 @@ img{
 .footer-title span{
     color:goldenrod;
 }
+ body {
+   padding: 25px;
+   background-color: #F7F1D0;
+   color: black;
+   font-size: 25px;
+   }
 
+   .dark-mode {
+   background-color: #453A04;
+   color: white;
+   }
+
+   .button {
+   background-color: #000000;
+   border: none;
+   color: white;
+   padding: 20px;
+   text-align: center;
+   text-decoration: none;
+   display: inline-block;
+   font-size: 16px;
+   margin: 4px 2px;
+   cursor: pointer;
+ }
+
+ .button4 {border-radius: 12px;}
  
         
